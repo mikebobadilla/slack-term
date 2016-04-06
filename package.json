@@ -1,0 +1,22 @@
+{
+  "name": "slack-term",
+  "version": "1.0.0",
+  "description": "Slack for the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitsandbytez/slack-term.git"
+  },
+  "author": "Mike Bobadilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitsandbytez/slack-term/issues"
+  },
+  "homepage": "https://github.com/bitsandbytez/slack-term#readme",
+  "dependencies": {
+    "slack-client": "^2.0.4"
+  }
+}
